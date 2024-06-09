@@ -52,6 +52,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - This project utilizes the Transformers library developed by Hugging Face.
 - Special thanks to the Hugging Face community for their contributions and support.
-```
-
-Feel free to customize the sections and links according to your specific project details.
